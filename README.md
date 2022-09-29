@@ -1,3 +1,3 @@
 # gadgets
-My first repository
+My first repository.
 Language: C++
